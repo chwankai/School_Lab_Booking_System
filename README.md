@@ -1,3 +1,3 @@
 # Lab-Booking-System
 
-A booking system that is utilised for lab
+A simple C Language lab booking system that can be used by lecturers to book the lab with ease.
